@@ -2,4 +2,6 @@
 
 Dissertação apresentada à Universidade Federal de Lavras, como parte das exigências do Programa de PósGraduação em Ciência da Computação, área de concentração em Inteligência Computacional e Processamento Gráfico, para a obtenção do título de Mestre.
 
-**Por Alice Rezende Ribeiro**
+**Por Alice Rezende Ribeiro** 
+
+Não é permitido a reprodução sem a autorização.
