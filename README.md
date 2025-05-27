@@ -6,7 +6,7 @@ Dissertação apresentada à Universidade Federal de Lavras, como parte das exig
 
 Não é permitido a reprodução sem a autorização.
 
-### Modelos keras (arquivos muito grandes para o gitbub)
+### Modelos keras (arquivos muito grandes para o github)
 
 BlogSetBR: https://drive.google.com/file/d/1NUUub2IyHw3CjU3HTOdxFuF_pmyS1HPH/view?usp=sharing
 
